@@ -21,11 +21,11 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_portrait.jpeg"
   name             : "Kunhong Shen"
   pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "West Lafayette"
+  location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
   email            : "shen503@purdue.edu" 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "kunhong-shen-255b26218"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
