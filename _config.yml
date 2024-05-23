@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kunhong Shen / PhD Candidate"
+title                    : "Kunhong Shen / Homepage"
 title_separator          : "-"
 name                     : &name "Kunhong Shen"
 description              : &description "personal description"
