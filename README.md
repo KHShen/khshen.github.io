@@ -18,14 +18,16 @@ Academic Pages is a Github Pages template for academic websites.
 
 See more info at https://academicpages.github.io/
 
-## Running Locally
+# Running Locally
 
-If you are using a windows computer, I recommend to use Windows Subsystem for Linux (WSL) and access files with Visual Studio Code. [how to?](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}.
+If you are using a windows computer, I recommend to use Windows Subsystem for Linux (WSL) and access files with Visual Studio Code. [how to?](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Log in WSL and run `sudo apt-get update` to refresh your library list.
+2. Install dependencies: `sudo apt-get install build-essential`.
+3. Clone the repository and made updates as detailed above.
+4. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+5. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+6. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change. If it doesn't work, add `--force_polling` to this command.
 
 
 # Maintenance 
