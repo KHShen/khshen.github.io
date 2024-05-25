@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "my_portrait.jpeg"
   name             : "Kunhong Shen"
-  pronouns         : # example: "he/his"  
-  bio              : "Physics PhD candidate, Purdue University"
+  pronouns         : # "he/his"  
+  bio              : "Physics PhD candidate"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
