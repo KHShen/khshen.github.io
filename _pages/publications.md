@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+- Jin, Yuanbin, Kunhong Shen, Peng Ju, and Tongcang Li. 2024. “Towards Real-World Applications of Levitated Optomechanics.” [ArXiv.org. July 17, 2024.](https://doi.org/10.48550/arXiv.2407.12496){:target="_blank"}
 - Gao, Xingyu, Sumukh Vaidya, Saakshi Dikshit, Peng Ju, **Kunhong Shen**, Yuanbin Jin, Shixiong Zhang, and Tongcang Li. "Nanotube spin defects for omnidirectional magnetic field sensing." [Nature Commnuications, arXiv:2310.02709 (2023).](https://arxiv.org/abs/2310.02709){:target="_blank"}
 - Jin, Yuanbin\*, **Kunhong Shen**\*, Peng Ju, Xingyu Gao, Chong Zu, Alejandro J. Grine, and Tongcang Li. "Quantum control and Berry phase of electron spins in rotating levitated diamonds in high vacuum." [Nature Communications 15, no. 1 (2024): 5063. ](https://doi.org/10.1038/s41467-024-49175-3){:target="_blank"}
 - Ju, Peng, Stefan Püschel, **Kunhong Shen**, Yuanbin Jin, Hiroki Tanaka, and Tongcang Li. "Purcell enhanced optical refrigeration." [arXiv preprint arXiv:2404.19142 (2024).](https://arxiv.org/abs/2404.19142){:target="_blank"}
